@@ -1,3 +1,8 @@
+
+# resume
+This is a draft of my resume!
+Working on it...
+=======
 # Welcome to my Resume page
 
 ### Here you can see my work experience and what I do now!
