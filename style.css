@@ -166,8 +166,25 @@ body {
 
 .skills__text {
   color: var(--secondary-text-color);
-  text-align: justify;
+  text-align: center;
 }
+
+.skills__wrapper {
+  display: flex;
+  text-align: center;
+  justify-content: space-evenly;
+  margin: 20px 0;
+}
+
+.skills__item-icon path {
+  fill: var(--text-decoration-color);
+}
+
+.skills__item-icon {
+  height: 3rem;
+  vertical-align: text-bottom;
+}
+
 .experiences {
   flex: 1 1 60%;
   margin-right: 50px;
